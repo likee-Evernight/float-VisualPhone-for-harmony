@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "io.github.xiaolongbao.likeeevernight.float",
+    "vendor": "xiaolongbao0709",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "buildVersion": "1",
+    "icon": "$media:startIcon",
+    "label": "$string:app_name"
+  }
+}
